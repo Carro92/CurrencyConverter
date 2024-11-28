@@ -6,4 +6,17 @@ obj/
 .vscode/
 .env
  i den
- - 
+
+ Gör nu
+ - git add .
+ - git status
+ - git commit -m "byggt nytt projekt"
+
+ ## Koppla till github repot
+- Gå in på github
+ -skapa nytt repo
+ - döp den till "CurrencyConverter"
+- Skapa repo
+
+## för att slå ihop
+- git pull origin main --allow-unrelated-histories
