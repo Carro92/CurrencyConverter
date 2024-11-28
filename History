@@ -20,3 +20,6 @@ obj/
 
 ## för att slå ihop
 - git pull origin main --allow-unrelated-histories
+- git add .
+- git commit -m "löst konflikt"
+- git push -u origin main
