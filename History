@@ -1,0 +1,9 @@
+## Skapa en mapp som du döper till CurrencyConverter
+- git init
+skapa två mappar "api" och "web"
+- skapa en ".gitignore" fil och skriv in bin/
+obj/
+.vscode/
+.env
+ i den
+ - 
